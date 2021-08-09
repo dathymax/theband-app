@@ -1,0 +1,76 @@
+.contact {
+    max-width: 800px;
+    padding: 64px 16px;
+    text-align: center;
+    margin: auto;
+}
+
+.contact__heading {
+    text-align: center;
+    color: #000;
+}
+
+.contact__title {
+    font-size: 1.9rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.contact__description {
+    margin: 15px 0;
+    font-style: italic;
+    opacity: 0.6;
+}
+
+.contact__container {
+    padding: 32px 0;   
+}
+
+.contact__left {
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.contact__left-icon {
+    margin-right: 10px;
+    width: 30px;
+    font-size: 1.1rem;
+}
+
+.contact__left-details {
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.contact__right-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+    margin-bottom: 8px;
+    font-size: 0.9rem;
+    outline: none;
+    line-height: 1.3rem;
+}
+
+.contact__send {
+    margin: 16px 0;
+    /* width: 100%; */
+    float: right;
+}
+
+.contact__send--link {
+    padding: 8px 16px;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #000;
+    display: inline-block;
+}
+
+.contact__send--link:hover {
+    cursor: pointer;
+    background-color: #ccc;
+    color: #000;
+}

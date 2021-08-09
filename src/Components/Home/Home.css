@@ -1,0 +1,30 @@
+.home {
+    position: relative;
+    text-align: center;
+}
+
+.home__bg {
+    width: 100%;
+    margin-top: 45px;
+}
+
+.home__section {
+    position: absolute;
+    bottom: 4px;
+    padding: 32px 16px;
+    left: 0;
+    right: 0;
+    color: #fff;
+}
+
+.home__title {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.home__description {
+    margin: 15px 0;
+    font-size: 1rem;
+    font-weight: 500;
+}

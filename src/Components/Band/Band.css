@@ -1,0 +1,53 @@
+.band {
+    padding: 64px 16px;
+    margin: auto;
+    max-width: 800px;
+}
+
+.band__heading {
+    text-align: center;
+}
+
+.band__title {
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    font-weight: 400;
+    letter-spacing: 4px;
+    margin: 10px 0;
+}
+
+.band__description {
+    font-size: 1rem;
+    opacity: 0.6;
+    font-style: italic;
+    margin: 15px 0;
+}
+
+.band__detail {
+    margin: 15px 0;
+}
+
+.band__detail-content {
+    text-align: justify;
+    font-size: 0.93rem;
+    line-height: 1.4rem;
+}
+
+.band__member-items {
+    padding: 32px 0;
+}
+
+.band__member-item {
+    text-align: center;
+}
+
+.band__member-name {
+    margin: 15px 0;
+    font-size: 0.93rem;
+}
+
+.band__member-img {
+    width: 60%;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
